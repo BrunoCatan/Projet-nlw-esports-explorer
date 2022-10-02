@@ -22,7 +22,7 @@ body * {
 }
 
 header {
-  margin-top: 32px;
+  padding-top: 32px;
   height: calc(120px + 32px);
 }
 
@@ -109,7 +109,7 @@ section ul li:hover {
 .channel-list img {
   border-radius: 50%;
   border: 1px solid #443e54;
-  width: 115px;
+  width: 70px;
 }
 
 main section {
