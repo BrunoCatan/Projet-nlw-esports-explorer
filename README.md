@@ -9,9 +9,8 @@ Projeto construído do evento Next Level Week da Rocketseat.
 ## 💻 Screenshot do projeto
 
 <div style="center;">
-    <img src="https://user-images.githubusercontent.com/75697499/193435976-9630daad-2180-4f1e-99a9-3b25fd6949c1.png">
+    <img src="(https://user-images.githubusercontent.com/75697499/193479567-04c788c7-11c0-49bc-bd9e-546422fea80d.png">
 </div>
-
 
 ## Tecnologias utilizadas
 
