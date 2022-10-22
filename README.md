@@ -15,7 +15,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Tecnologias utilizadas
 
-- HTML;
+- HTML
 - CSS
 - Git e Github
 
