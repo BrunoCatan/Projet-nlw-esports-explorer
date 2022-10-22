@@ -4,7 +4,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## 👨🏻‍💻 Deploy
 
-<a target="_blank" href="https://brunocatan.github.io/Projet-nlw-esports-explorer/">Click para acessar!</a>
+<a target="_blank" href="https://brunocatan.github.io/nlw-esports-explorer//">Click para acessar!</a>
 
 ## 💻 Screenshot do projeto
 
